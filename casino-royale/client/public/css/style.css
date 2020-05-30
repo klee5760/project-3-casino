@@ -1,0 +1,38 @@
+html,
+body {
+  height: 100%;
+}
+
+@font-face {
+    font-family: "century-gothic";
+    src: url("../../CenturyGothicRegular.ttf")
+      format('truetype');
+  }
+  
+  body {
+    text-align: center;
+    font-family: "CenturyGothicRegular";
+  }
+
+
+
+  .h1 {
+
+    font-size: 36px;
+    font-weight: 600;
+    color: white
+     
+  }
+
+
+  .h2{
+
+    font-size: 30px;
+    font-weight: 600;
+    color: white
+
+  }
+
+  button:hover {
+    border: 2px solid black;
+  }

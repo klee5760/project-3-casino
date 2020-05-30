@@ -1,0 +1,41 @@
+html,
+body {
+  height: 100%;
+}
+
+.app {
+    padding: 30px;
+    background: url('./casino-royale-background.jpg') no-repeat;
+    background-size: cover;
+    height: 100%
+}
+
+@font-face{
+    font-family: "Century-Gothic-Regular";
+    src: url("./CenturyGothicRegular.ttf")
+    format('truetype')
+    
+}
+
+h1 {
+    padding-top: 5%;
+    font-family: 'Century-Gothic-Regular';
+    font-size: 60px;
+    font-weight: 600;
+    color: White;
+  }
+
+  h2 {
+    padding-top: 5%;
+    font-family: 'Century-Gothic-Regular';
+    font-size: 48px;
+    font-weight: 600;
+    color: white;
+  }
+
+  h4 {
+    
+    font-family: 'Century-Gothic-Regular';
+    font-size: 36px;
+    color: red;
+  }

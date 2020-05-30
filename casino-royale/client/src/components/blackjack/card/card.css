@@ -1,0 +1,215 @@
+.card {
+    width: 120px;
+    height: 180px;
+    background-position: center;
+    background-size: cover;
+    transition: transform linear 0.05s;
+  }
+  
+  .card-suit-spade.card-value-ace {
+    background-image: url(./cardasset/S0A.png);
+  }
+
+  .card-suit-spade.card-value-2 {
+    background-image: url(./cardasset/S02.png);
+  }
+
+  .card-suit-spade.card-value-3 {
+    background-image: url(./cardasset/S03.png);
+  }
+
+  .card-suit-spade.card-value-4 {
+    background-image: url(./cardasset/S04.png);
+  }
+
+  .card-suit-spade.card-value-5 {
+    background-image: url(./cardasset/S05.png);
+  }
+
+  .card-suit-spade.card-value-6 {
+    background-image: url(./cardasset/S06.png);
+  }
+
+  .card-suit-spade.card-value-7 {
+    background-image: url(./cardasset/S07.png);
+  }
+
+  .card-suit-spade.card-value-8 {
+    background-image: url(./cardasset/S08.png);
+  }
+
+  .card-suit-spade.card-value-9 {
+    background-image: url(./cardasset/S09.png);
+  }
+
+  .card-suit-spade.card-value-10 {
+    background-image: url(./cardasset/S10.png);
+  }
+
+  .card-suit-spade.card-value-jack {
+    background-image: url(./cardasset/S0J.png);
+  }
+
+  .card-suit-spade.card-value-queen {
+    background-image: url(./cardasset/S0Q.png);
+  }
+
+  .card-suit-spade.card-value-king {
+    background-image: url(./cardasset/S0K.png);
+  }
+
+  .card-suit-heart.card-value-ace {
+    background-image: url(./cardasset/H0A.png);
+  }
+
+  .card-suit-heart.card-value-2 {
+    background-image: url(./cardasset/H02.png);
+  }
+
+  .card-suit-heart.card-value-3 {
+    background-image: url(./cardasset/H03.png);
+  }
+
+  .card-suit-heart.card-value-4 {
+    background-image: url(./cardasset/H04.png);
+  }
+
+  .card-suit-heart.card-value-5 {
+    background-image: url(./cardasset/H05.png);
+  }
+
+  .card-suit-heart.card-value-6 {
+    background-image: url(./cardasset/H06.png);
+  }
+
+  .card-suit-heart.card-value-7 {
+    background-image: url(./cardasset/H07.png);
+  }
+
+  .card-suit-heart.card-value-8 {
+    background-image: url(./cardasset/H08.png);
+  }
+
+  .card-suit-heart.card-value-9 {
+    background-image: url(./cardasset/H09.png);
+  }
+
+  .card-suit-heart.card-value-10 {
+    background-image: url(./cardasset/H10.png);
+  }
+
+  .card-suit-heart.card-value-jack {
+    background-image: url(./cardasset/H0J.png);
+  }
+
+  .card-suit-heart.card-value-queen {
+    background-image: url(./cardasset/H0Q.png);
+  }
+
+  .card-suit-heart.card-value-king {
+    background-image: url(./cardasset/H0K.png);
+  }
+
+  .card-suit-diamond.card-value-ace {
+    background-image: url(./cardasset/D0A.png);
+  }
+
+  .card-suit-diamond.card-value-2 {
+    background-image: url(./cardasset/D02.png);
+  }
+
+  .card-suit-diamond.card-value-3 {
+    background-image: url(./cardasset/D03.png);
+  }
+
+  .card-suit-diamond.card-value-4 {
+    background-image: url(./cardasset/D04.png);
+  }
+
+  .card-suit-diamond.card-value-5 {
+    background-image: url(./cardasset/D05.png);
+  }
+
+  .card-suit-diamond.card-value-6 {
+    background-image: url(./cardasset/D06.png);
+  }
+
+  .card-suit-diamond.card-value-7 {
+    background-image: url(./cardasset/D07.png);
+  }
+
+  .card-suit-diamond.card-value-8 {
+    background-image: url(./cardasset/D08.png);
+  }
+
+  .card-suit-diamond.card-value-9 {
+    background-image: url(./cardasset/D09.png);
+  }
+
+  .card-suit-diamond.card-value-10 {
+    background-image: url(./cardasset/D10.png);
+  }
+
+  .card-suit-diamond.card-value-jack {
+    background-image: url(./cardasset/D0J.png);
+  }
+
+  .card-suit-diamond.card-value-queen {
+    background-image: url(./cardasset/D0Q.png);
+  }
+
+  .card-suit-diamond.card-value-king {
+    background-image: url(./cardasset/D0K.png);
+  }
+  
+  .card-suit-clover.card-value-ace {
+    background-image: url(./cardasset/C0A.png);
+  }
+
+  .card-suit-clover.card-value-2 {
+    background-image: url(./cardasset/C02.png);
+  }
+
+  .card-suit-clover.card-value-3 {
+    background-image: url(./cardasset/C03.png);
+  }
+
+  .card-suit-clover.card-value-4 {
+    background-image: url(./cardasset/C04.png);
+  }
+
+  .card-suit-clover.card-value-5 {
+    background-image: url(./cardasset/C05.png);
+  }
+
+  .card-suit-clover.card-value-6 {
+    background-image: url(./cardasset/C06.png);
+  }
+
+  .card-suit-clover.card-value-7 {
+    background-image: url(./cardasset/C07.png);
+  }
+
+  .card-suit-clover.card-value-8 {
+    background-image: url(./cardasset/C08.png);
+  }
+
+  .card-suit-clover.card-value-9 {
+    background-image: url(./cardasset/C09.png);
+  }
+
+  .card-suit-clover.card-value-10{
+    background-image: url(./cardasset/C10.png);
+  }
+
+  .card-suit-clover.card-value-jack {
+    background-image: url(./cardasset/C0J.png);
+  }
+
+  .card-suit-clover.card-value-queen {
+    background-image: url(./cardasset/C0Q.png);
+  }
+
+  .card-suit-clover.card-value-king {
+    background-image: url(./cardasset/C0K.png);
+  }
