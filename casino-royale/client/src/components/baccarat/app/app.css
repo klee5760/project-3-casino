@@ -1,0 +1,12 @@
+html,
+body,
+#root {
+    height: 100%;
+}
+
+.app {
+    
+    background: url('../baccarat-background.jpg') no-repeat;
+    background-size: cover;
+    height: 100%
+}

@@ -1,0 +1,46 @@
+.game-container {
+    text-align: center;
+}
+
+.banker-cards,
+.player-cards {
+  position: relative;
+  display: inline-block;
+  margin-left: -20px;
+}
+
+
+.banker-cards-container,
+.dealer-cards-container {
+  margin: 40px 0 40px 20px;
+}
+
+.score-container{
+  height: 50px;
+  width: 50px;
+  font-family: 'Source Sans Pro';
+  cursor: pointer;
+  color: #000;
+  background: #f9ef8d;
+  border: 3px solid #058626;
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  top: -120px;
+  left: -20px;
+  -webkit-box-shadow: inset 0px 0px 6px 0px rgba(5,134,38,1);
+  -moz-box-shadow: inset 0px 0px 6px 0px rgba(5,134,38,1);
+  box-shadow: inset 0px 0px 6px 0px rgba(5,134,38,1);
+
+}
+
+.winner {
+    background: #eace80;
+    color: #ee5b41;
+    padding: 10px;
+    width: 100px;
+    -webkit-box-shadow: inset 0px 0px 12px 0px rgba(5,134,38,1);
+    -moz-box-shadow: inset 0px 0px 12px 0px rgba(5,134,38,1);
+    box-shadow: inset 0px 0px 12px 0px rgba(5,134,38,1);
+    margin: 0 auto;
+  }

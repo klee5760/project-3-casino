@@ -37,7 +37,7 @@ function App() {
        
        
        <div><Link to = "/Baccarat"  button type = "button" class = "btn btn-lg btn-primary">
-                        <h4>BACCARAT (IN Construction)</h4>
+                        <h4>BACCARAT (Under Construction)</h4>
                         </Link></div>
        
                         

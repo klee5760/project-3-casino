@@ -73,7 +73,8 @@ this.startGame()
       dealerCards: [dealTwo.card],
       fullDeck: dealThree.cards,
       playerScore: this.calculateScore([dealOne.card, dealThree.card]),
-      dealerScore: isNaN(dealTwo.card.value) ? 10 : dealTwo.card.value
+      dealerScore: isNaN(dealTwo.card.value) ? 10 : dealTwo.card.value,
+
     });
   }
 
